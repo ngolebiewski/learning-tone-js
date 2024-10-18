@@ -1,0 +1,17 @@
+.white-key{
+  background-color: white;
+  color: black;
+  height: 70px;
+  width: 30px;
+}
+
+.black-key{
+  background-color: black;
+  color: white;
+  height: 70px;
+  width: 30px;
+}
+
+body{
+  background-color: rgb(216, 221, 220);
+}
